@@ -122,3 +122,26 @@ Mario Jakupas
 MS Computer Science – Data Analysis
 
 Montclair State University
+---
+
+## Project Visualizations
+
+### Tesla Historical Stock Price (2015–2025)
+
+Tesla stock price trend showing long-term market behavior and volatility.
+
+### Earnings Call Sentiment Dataset
+
+FinBERT sentiment extraction from Tesla earnings call transcripts.
+
+### XGBoost Feature Importance
+
+Feature importance analysis using market and sentiment variables.
+
+### Model Performance Comparison
+
+Comparison between Baseline, Linear Sentiment, Random Forest, XGBoost and LSTM models.
+
+### LSTM Stock Prediction
+
+Actual vs predicted Tesla stock price using LSTM architecture.
