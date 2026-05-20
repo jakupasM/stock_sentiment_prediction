@@ -133,20 +133,20 @@ Montclair State University
 
 ### Tesla Historical Stock Price (2015–2025)
 
-Tesla stock price trend showing long-term market behavior and volatility.
+![Tesla Price](results/figures/tesla_stock_price_2015_2025.png)
 
 ### Earnings Call Sentiment Dataset
 
-FinBERT sentiment extraction from Tesla earnings call transcripts.
+![Sentiment](results/figures/earnings_call_sentiment_dataset.png)
 
 ### XGBoost Feature Importance
 
-Feature importance analysis using market and sentiment variables.
+![XGBoost](results/figures/xgboost_feature_importance.png)
 
 ### Model Performance Comparison
 
-Comparison between Baseline, Linear Sentiment, Random Forest, XGBoost and LSTM models.
+![Performance](results/figures/model_performance_comparison.png)
 
 ### LSTM Stock Prediction
 
-Actual vs predicted Tesla stock price using LSTM architecture.
+![LSTM](results/figures/lstm_model_prediction.png)
