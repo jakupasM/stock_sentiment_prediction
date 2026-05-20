@@ -1,4 +1,9 @@
 # 📈 Single Stock Prediction using Corporate Sentiment
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+![XGBoost](https://img.shields.io/badge/Machine%20Learning-XGBoost-green)
+
+![FinBERT](https://img.shields.io/badge/NLP-FinBERT-orange)
 
 ## Project Overview
 
